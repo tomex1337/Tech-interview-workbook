@@ -90,8 +90,11 @@ DBB:Közös nyelv (Gherkin), üzleti és fejlesztői együttműködés.
 Tesztesetek különböző adatokkal futtatása. 
 Hasznos: Hatékony, nagyobb lefedettség, kevesebb kódismétlés.
 
+### Linkek:
 [Szoftvertesztelés pdf](https://aries.ektf.hu/~gkusper/SzoftverTeszteles.pdf)
 
 [Selenium](https://www.selenium.dev/)
+
+[Solid Principles robot explanation](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898/)
 
 [Viselkedés vezérelt fejlesztés](https://hu.wikipedia.org/wiki/Viselked%C3%A9svez%C3%A9relt_fejleszt%C3%A9s)
